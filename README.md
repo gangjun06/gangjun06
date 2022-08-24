@@ -4,7 +4,7 @@ Welcome to my github page.
 
 ## My Skills
 
-## Language
+### Language
 ![Korean](https://img.shields.io/badge/Native-Korean-FFF0E5?style=for-the-badge&logoColor=1F243A)
 ![English](https://img.shields.io/badge/Not_Bad-English-%230056D2.svg?style=for-the-badge&logoColor=white)
 ![Japanese](https://img.shields.io/badge/Learning-Japanese-009CAB?style=for-the-badge&logoColor=white)
@@ -62,7 +62,6 @@ Welcome to my github page.
 ### Web Browser
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
 
 ### Editor
 [![vscode](https://img.shields.io/badge/Main-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
